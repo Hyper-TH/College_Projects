@@ -1,6 +1,9 @@
 ## My College Projects
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
+| [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
+| [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared  | Complete
+| [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
 | EA_Node_Ajax | Module project for Year 4 Semseter 2 Enterprise Application Development | Complete
 | EA_Node_Ajax_Server | Module project server for Year 4 Semseter 2 Enterprise Application Development | Complete
 | Visualising Data | Module repository containing the CAs with R Year 4 Semester 2 | Complete
