@@ -6,7 +6,7 @@
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
 | [EA_Node_Ajax](https://github.com/Hyper-TH/EA_Node_Ajax) | Module project for Year 4 Semseter 2 Enterprise Application Development | Complete
 | [EA_Node_Ajax_Server](https://github.com/Hyper-TH/EA_Node_Ajax_Server) | Module project server for Year 4 Semseter 2 Enterprise Application Development | Complete
-| Visualising Data | Module repository containing the CAs with R Year 4 Semester 2 | Complete
+| [Visualising Data](https://github.com/Hyper-TH/Visualising-Data) | Module repository containing the CAs with R Year 4 Semester 2 | Complete
 | MarketPlace | Module project for Year 4 Semester 1 Distributed Systems | Complete
 | Advance_Databases_CA_1 | Module project for Year 4 Semester 1 Advanced Databases | Complete
 | Rich Web Applications | Module repository containing the CAs with JavaScript Year 4 Semester 1  | Complete
