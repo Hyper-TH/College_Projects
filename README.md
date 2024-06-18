@@ -15,5 +15,5 @@
 | [Hypers_OOP](https://github.com/Hyper-TH/Hypers_OOP) | Module repository for Year 2 Semester 2 OOP | Complete
 | [Databases Year 2 Sem 1](https://github.com/Hyper-TH/Databases-Year2Sem1) | Module project for Year 2 Semester 1 Databases | Complete
 | Timeage | Mobile Software Weather/Calendar/Progress_Tracker/To-Do App | Complete
-| STM32 | Module project for Year 1 Semester 2 Microprocessing | Complete
+| [STM32](https://github.com/Hyper-TH/STM32) | Module project for Year 1 Semester 2 Microprocessing | Complete
 | [Simple-Security-Authentication-Program](https://github.com/Hyper-TH/Simple-Security-Authentication-Program) | Module project for Year 1 Semester 2 Programming | Complete
