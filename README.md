@@ -1,4 +1,14 @@
-## My College Projects
+## My Masters Projects
+|   Project   | Description |   Status    |
+| ----------- | ----------- |  ---------- | 
+| [Web Applications Architectures](https://github.com/rafaacorci/WAA_CA_Server) | Server Repository for FreshFrozen | Complete
+| [Web Applications Architectures](https://github.com/rafaacorci/WAA_CA) | Front-End Repository for FreshFrozen | Complete
+| [Advanced Databases](https://github.com/Hyper-TH/AdvancedDatabases_Demo) | FerretDB Exploration | Complete
+| [Programming for Big Data](https://github.com/Hyper-TH/MSc_PBD_CA1) | Using Spark for a Kaggle Competition | Complete
+| [Security Systems Development](https://github.com/Hyper-TH/MSc_SSD_CA2) | Implementing AES/Rijndael in C | Complete
+
+
+## My Bachelors Projects
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
